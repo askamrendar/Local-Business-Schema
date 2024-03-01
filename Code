@@ -1,0 +1,203 @@
+	
+<script type="application/ld+json">{
+ "@context": "https://schema.org",
+ "@graph": [{
+            "@type":"LocalBusiness",
+             "address":{
+      "@type":"PostalAddress",
+      "streetAddress":"1111 YOURAddress",
+      "addressLocality":"YOURCITY",
+      "addressRegion":"STATE",
+      "postalCode":"ZIP",
+      "addressCountry":"USA"
+   },
+            "@id":"https://www.google.com/search?q=URL with MACHINE ID",
+            "name":"BRAND Roofing, Roof Repair, Roof Replacement Services",
+	    "identifier":["https://www.google.com/search?q=roofing+company+dallas&kponly&kgmid=/m/City", "https://www.google.com/search?q=roofing+contractor&kponly&kgmid=/m/1234z5xg", "https://www.google.com/search?q=roofing+roof+repair&kponly&kgmid=/m/11fnb0s6x6"],
+	    "alternateName":["Roofing Company","Roof Repair Company","Roof repairs","Roofer near me"],
+            "description":"BRAND Roofing is a family-owned, locally-based roofing company with more than 40 years of experience in the roofing industry. We proudly serve customers located throughout Texas.",
+            "telephone":"+180005551111",
+            "url":"https://YOURWEBSITE.com/",
+            "logo":"logoURL",
+            "hasMap":"https://maps.google.com/?cid=",
+            "currenciesAccepted":"USD",
+            "paymentAccepted":"Visa, MC, PayPal, Amex, Discover, Cash, Gold",
+            "additionalProperty":"https://sites.google.com/",
+            "priceRange":"$$",
+            "openingHours":"Mo 0000-1130 Tu 0000-1130 We 0000-1130 Th 0000-1130 Fr 0000-1130 Sat 0000-1130 Sun 0000-1130",
+            "disambiguatingDescription":"We work on residential and commercial projects. BRAND Roofing is proud to be platinum preferred Owens Corning contractor!",
+   "mainEntityOfPage":"https://en.wikipedia.org/wiki/Roofing",
+   "foundingDate":"2008",
+   "foundingLocation":[
+      {
+         "@type":"Place",
+         "geo":{
+            "@type":"GeoCoordinates",
+            "latitude":"32.9991",
+            "longitude":"97.88253"
+         },
+         "name":"BRAND Roofing"
+      }
+   ],
+   "actionableFeedbackPolicy":"https://website.com/privacy-policy/",
+   "areaServed":["USA","TX","http://dbpedia.org/page/United_States","http://dbpedia.org/page/Texas","http://dbpedia.org/page/Granbury,_Texas","http://dbpedia.org/page/Fort_Worth,_Texas","http://dbpedia.org/page/Arlington,_Texas","http://dbpedia.org/page/Tarrant_County,_Texas", "Granbury", "DeCordova", "Pecan Plantation", "Fort Worth", "Weatherford", "Garner", "Stephenville", "Grandview"
+   ],
+            "image":{
+                "@type":"ImageObject",
+                "name":"BRAND Roofing, Roof Repair, and Roofing Contractor",
+                "creator":"BRAND Roofing",
+                "author":"Your Boy",
+                "contentLocation":"City, STATE",
+                "description":"Our company banner highlighting our roof repairs, new roofs and roofing services",
+                "url":"https://secureservercdn.net/myftpupload.com/2019.png"
+            },
+   
+    "hasOfferCatalog": {
+    "@type": "OfferCatalog",
+    "name": "BRAND Roofing Services",
+    "@id": "https://WEBSITE.com",
+    "additionalType": "http://www.productontology.org/doc/roofing",
+    "url": "https://roofing.com/",
+    "itemListElement": [
+      {
+      "@type": "Offer",
+        "itemOffered": [
+        {
+          "@type": "Service",
+          "name": "roof repair",
+          "@id": "https://roofing.com/roof-repair/",
+          "url": "https://roofing.com/roof-repair/",
+          "description": "If you notice any signs that warranty any repair, it is best to act immediately to avoid deterioration of the problem. Ignored repair needs will warrant entire roof replacement in the future, which is quite expensive."
+       	},
+        {          
+          "@type": "Service",
+          "name": "roof replacement",
+          "@id": "https://roofing.com/roof-replacement/",
+          "url": "https://roofing.com/roof-replacement/",
+          "description": "The roof is one of the most critical areas of a house."
+        },
+        {
+          "@type": "Service",
+          "name": "TPO Roofing",
+          "@id": "https://roofing.com/tpo-roofing/",
+          "url": "https://roofing.com/tpo-roofing/",
+          "description": "TPO roofing is a type of single-ply membrane roofing where a thermoplastic polyolefin rubber membrane is used to cover the surface of a flat roof. "
+        },
+        {
+        "@type": "Service",
+          "name": "Roofing Shingles",
+          "@id": "https://roofing.com/roof-shingles/",
+          "url": "https://roofing.com/roof-shingles/",
+          "description": "Asphalt shingles are a type of roofing material that incorporates asphalt for waterproofing."
+        },
+        {
+          "@type": "Service",
+          "name": "Metal Roofing",
+          "@id": "https://roofing.com/metal-roofing/",
+          "url": "https://roofing.com/metal-roofing/",
+          "description": "Metal is good at resisting high winds and getting rid of rain and snow. It is also lightweight and can be fitted over existing roofs. "
+        },
+        {
+        "@type":"WebSite",
+        "publisher":{
+                "@id":"https://maps.google.com/?cid=1300000000000"
+                },
+ "award":[
+       "Top Roofer in County ZZZZ ",
+      "Fastest Roof Repair in Texas",
+      "Coolest flat roofers",
+      "Most bestest roofing contractor",
+      "Most trusted dudes",
+      "Greatest commercial roofer",
+      "roofing contractors in blank town",
+      "Fatest roofing companies",
+      "Texas roof repair 2020repair"
+   ],
+
+        "name":"Roofing Services | Roof Repair, Roof Replacement, Metal Roofing, Roof Shingles, Roofing contractor",
+        "@id":"https://roofing.com/#website",
+        "url":"https://roofing.com/",
+	"keywords": "roofing specialist, affordable roofing, certified roofer, flat roof replacement cost, industrial roofers, roofing experts, free roof inspection, roofing company Granbury, leaky skylight, local roofers, roofing company, emergency roofer, roofing repair company, roofing repair company, commercial roofing companies near me, roofing repair companies near me, local roofing companies near me, local roofing repair companies near me, tx roofing, roofing contractor in my area, roofing companies with financing",
+"about":
+[{"@type": "thing", "name": "roof", "sameAs": ["http://en.wikipedia.org/wiki/Roof",
+"https://www.google.com/search?q=roof&kgmid=/m/06hyd"]},
+{"@type": "thing", "name": "shingles", "sameAs": ["http://en.wikipedia.org/wiki/Roof_shingle",
+"https://www.google.com/search?q=shingles&kgmid=/m/07qy2g"]},
+{"@type": "thing", "name": "asphalt", "sameAs": ["http://en.wikipedia.org/wiki/Asphalt",
+"https://www.google.com/search?q=asphalt&kgmid=/m/0hr8"]},
+{"@type": "thing", "name": "metal", "sameAs": ["http://en.wikipedia.org/wiki/Metal",
+"https://www.google.com/search?q=metal&kgmid=/m/04t7l"]},
+{"@type": "thing", "name": "tile", "sameAs": ["http://en.wikipedia.org/wiki/Tile",
+"https://www.google.com/search?q=tile&kgmid=/m/021w6f"]},
+{"@type": "thing", "name": "roofing", "sameAs": ["http://en.wikipedia.org/wiki/Domestic_roof_construction",
+"https://www.google.com/search?q=roofing&kgmid=/m/03bxfx2"]},
+{"@type": "thing", "name": "slate", "sameAs": ["http://en.wikipedia.org/wiki/Slate",
+"https://www.google.com/search?q=slate&kgmid=/m/0c1ml"]},
+{"@type": "thing", "name": "warranty", "sameAs": ["http://en.wikipedia.org/wiki/Warranty",
+"https://www.google.com/search?q=warranty&kgmid=/m/03gg0l"]},
+{"@type": "thing", "name": "clay", "sameAs": ["http://en.wikipedia.org/wiki/Clay",
+"https://www.google.com/search?q=clay&kgmid=/m/0975t"]},
+{"@type": "thing", "name": "price", "sameAs": ["http://en.wikipedia.org/wiki/Price",
+"https://www.google.com/search?q=price&kgmid=/m/01d_1l"]},
+{"@type": "thing", "name": "homeowners", "sameAs": ["http://en.wikipedia.org/wiki/Home_insurance",
+"https://www.google.com/search?q=homeowners&kgmid=/m/0313mp"]},
+{"@type": "thing", "name": "roofer", "sameAs": ["http://en.wikipedia.org/wiki/Roofer",
+"https://www.google.com/search?q=roofer&kgmid=/m/0h398j"]},
+{"@type": "thing", "name": "copper", "sameAs": ["http://en.wikipedia.org/wiki/Copper",
+"https://www.google.com/search?q=copper&kgmid=/m/025rsfk"]},
+{"@type": "thing", "name": "asphalt shingles", "sameAs": ["http://en.wikipedia.org/wiki/Asphalt_shingle",
+"https://www.google.com/search?q=asphalt+shingles&kgmid=/m/0d9lpt"]},
+{"@type": "thing", "name": "concrete", "sameAs": ["http://en.wikipedia.org/wiki/Concrete",
+"https://www.google.com/search?q=concrete&kgmid=/m/01mxf"]},
+{"@type": "thing", "name": "flashing", "sameAs": ["http://en.wikipedia.org/wiki/Flashing_(weatherproofing)",
+"https://www.google.com/search?q=flashing&kgmid=/m/0968pp"]},
+{"@type": "thing", "name": "sheets", "sameAs": ["http://en.wikipedia.org/wiki/Sheet_metal",
+"https://www.google.com/search?q=sheets&kgmid=/m/0586q3"]},
+{"@type": "thing", "name": "yelp", "sameAs": ["http://en.wikipedia.org/wiki/Yelp",
+"https://www.google.com/search?q=yelp&kgmid=/m/0bngkg"]},
+{"@type": "thing", "name": "gutters", "sameAs": ["http://en.wikipedia.org/wiki/Rain_gutter",
+"https://www.google.com/search?q=gutters&kgmid=/m/0113gwdn"]},
+{"@type": "thing", "name": "patio", "sameAs": ["http://en.wikipedia.org/wiki/Patio",
+"https://www.google.com/search?q=patio&kgmid=/m/02p8qh"]},
+{"@type": "thing", "name": "tin", "sameAs": ["http://en.wikipedia.org/wiki/Tin",
+"https://www.google.com/search?q=tin&kgmid=/m/025sk5n"]},
+{"@type": "thing", "name": "weight", "sameAs": ["http://en.wikipedia.org/wiki/Weight",
+"https://www.google.com/search?q=weight&kgmid=/m/085x_"]},
+{"@type": "thing", "name": "steel", "sameAs": ["http://en.wikipedia.org/wiki/Steel",
+"https://www.google.com/search?q=steel&kgmid=/m/06qqb"]}],
+"mentions":
+[{"@type": "thing", "name": "built-up roof", "sameAs": ["http://en.wikipedia.org/wiki/Flat_roof",
+"https://www.google.com/search?q=built-up+roof&kgmid=/m/059r_y"]},
+{"@type": "thing", "name": "roll roofing", "sameAs": ["http://en.wikipedia.org/wiki/Asphalt_roll_roofing",
+"https://www.google.com/search?q=roll+roofing&kgmid=/m/0660tdn"]},
+{"@type": "thing", "name": "ridge", "sameAs": ["http://en.wikipedia.org/wiki/Roof",
+"https://www.google.com/search?q=ridge&kgmid=/m/06hyd"]},
+{"@type": "thing", "name": "roofs", "sameAs": ["http://en.wikipedia.org/wiki/Roof",
+"https://www.google.com/search?q=roofs&kgmid=/m/06hyd"]},
+{"@type": "thing", "name": "flat roof", "sameAs": ["http://en.wikipedia.org/wiki/Flat_roof",
+"https://www.google.com/search?q=flat+roof&kgmid=/m/059r_y"]},
+{"@type": "thing", "name": "solar tiles", "sameAs": ["http://en.wikipedia.org/wiki/Solar_shingle",
+"https://www.google.com/search?q=solar+tiles&kgmid=/m/08jlpt"]},
+{"@type": "thing", "name": "terne", "sameAs": ["http://en.wikipedia.org/wiki/Terne",
+"https://www.google.com/search?q=terne&kgmid=/m/0395_1"]},
+{"@type": "thing", "name": "roofing material", "sameAs": ["http://en.wikipedia.org/wiki/Domestic_roof_construction",
+"https://www.google.com/search?q=roofing+material&kgmid=/m/03bxfx2"]},
+{"@type": "thing", "name": "roofing shingles", "sameAs": ["http://en.wikipedia.org/wiki/Roof_shingle",
+"https://www.google.com/search?q=roofing+shingles&kgmid=/m/07qy2g"]},
+{"@type": "thing", "name": "shingle", "sameAs": ["http://en.wikipedia.org/wiki/Roof_shingle",
+"https://www.google.com/search?q=shingle&kgmid=/m/07qy2g"]},
+{"@type": "thing", "name": "roofer", "sameAs": ["http://en.wikipedia.org/wiki/Roofer",
+"https://www.google.com/search?q=roofer&kgmid=/m/0h398j"]},
+{"@type": "thing", "name": "metal roof", "sameAs": ["http://en.wikipedia.org/wiki/Metal_roof",
+"https://www.google.com/search?q=metal+roof&kgmid=/m/09gx16"]},
+{"@type": "thing", "name": "shingle roofs", "sameAs": ["http://en.wikipedia.org/wiki/Roof_shingle",
+"https://www.google.com/search?q=shingle+roofs&kgmid=/m/07qy2g"]}],
+"hasPart":[
+                {"@id":"https://www.roofing.com/contact/#contact"},
+                {"@id":"https://roofing.com/about-us/#about"},
+                {"@id":"https://roofing.com/roof-repair#blog"}]
+    }
+ ]
+}]
+}}]}</script>
+
